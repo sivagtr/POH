@@ -11,5 +11,5 @@ Usage
 Include POH.jar in classpath, Use its methods
 
 Example
-	POH poh = new POH();
+	POH poh = new POHGenerator();
 	output=poh.performOperation(input);
